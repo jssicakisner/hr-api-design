@@ -56,7 +56,7 @@ Employee: 102 Bob 1200.34
 Employee: 103 Ray 1122.33
 Total Salary: 3557.23
 Average Salary: 1185.74
-
+```
 ## License 
 
 This project is licensed under the Oracle License - see the [ORACLE LEARNING EXPLORER](https://mylearn.oracle.com) Java course for details.
